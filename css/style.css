@@ -228,7 +228,7 @@ section{
     font-weight: lighter;
     line-height: 1.8;
     padding:1rem 0;
-    color:#eee;
+    color:#fff;
 }
 
 .about .row{
@@ -606,8 +606,6 @@ section{
 .footer .credit span{
     color:var(--main-color);
 }
-
-
 
 
 
